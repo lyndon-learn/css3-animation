@@ -1,2 +1,2 @@
 # css3-animation
-Record some CSS3 animation effects
+record some CSS3 animation effects
